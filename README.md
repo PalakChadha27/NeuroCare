@@ -4,11 +4,11 @@ Problem statement:  Building an Inclusive World for Neurodiverse Individuals
 
 The platform directly addresses challenges faced by neurodiverse individuals by providing AI-powered, personalized, and assistive solutions across key life areas:
 
-Education → AI-driven study plans, assistive learning tools, gamified modules for skill-building
-Employment → AI resume generator, skill-based job matching, blockchain-verified credentials
-Daily Life Assistance → AI routine planner, sensory-friendly navigation, mental wellness support
-Community & Mentorship → Peer support groups, expert mentorship, AI-powered social skills training
-Accessibility First → Custom UI (Text-to-Speech, Visual Schedulers, Dark Mode), NLP-based interactions
+1. Education → AI-driven study plans, assistive learning tools, gamified modules for skill-building
+2. Employment → AI resume generator, skill-based job matching, blockchain-verified credentials
+3. Daily Life Assistance → AI routine planner, sensory-friendly navigation, mental wellness support
+4. Community & Mentorship → Peer support groups, expert mentorship, AI-powered social skills training
+5. Accessibility First → Custom UI (Text-to-Speech, Visual Schedulers, Dark Mode), NLP-based interactions
 
 Techstack:
 1. FRONTEND: BUILT ON REACT.JS.
